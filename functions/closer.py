@@ -9,3 +9,4 @@ c = outer(3)
 
 print(s(4))
 print(c(4))
+print(c(2))
